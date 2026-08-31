@@ -2,7 +2,7 @@
 
 Invitation site for Erin's 40th birthday celebration in Copenhagen, July 2027 — with a day trip to Aarhus to see James Turrell's Skydome.
 
-Live at: https://erintherad.github.io/forty-in-the-light/
+Live at: [https://erintherad.github.io/forty-in-the-light/](https://erinturns40.com/)
 
 ## Stack
 
